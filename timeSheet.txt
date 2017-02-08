@@ -1,0 +1,16 @@
+I spent 1 hour exploring the MIT fractal maker app at https://scratch.mit.edu/projects/1360458/
+I spent 7 hours making the basic UI and fractals work
+I spent 3 hours planning the zoom feature of my fractals
+I spent 2 hours making the zoom feature work without changing fractal resolution
+I spent 7 hours making fractal zoom in work as well as colors. 
+I spent 1 hour commenting out code.
+I spent 6 hours making fractal zoom in and out reducing bugs, and adding:
+Fractal Freeze Mode
+and Fractal side feature
+I spent 5 more hours debugging, added a go back feature to safeguard many bugs
+I spent 5 hours implementing save features 
+I spent 4 hours implementing proper style
+I spent 2 hours making the video
+Overall Time spent : 43 hours
+
+
